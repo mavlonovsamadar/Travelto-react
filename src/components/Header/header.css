@@ -1,0 +1,33 @@
+.header_photo{
+    /* margin-top: -140px; */
+    margin-left: -480px;
+}
+
+header{
+    background-color: #EEF9FC;
+}
+
+.headerText{
+    padding-top: 73px;
+    padding-bottom: 25px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+
+    display: flex;
+    align-items: center;
+    
+    color: #1C8EC0;
+}
+
+.headerText_p{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+    
+}
