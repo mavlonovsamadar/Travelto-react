@@ -1,6 +1,7 @@
 import React from 'react'
 import "./navbar.css"
 import { Col, Container, Row } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
 const icon = require('./img/logo.png')
 const icon2 = require("./img/translate.png")
 const icon3 = require("./img/profile.png")
@@ -50,22 +51,22 @@ export default function Navbar() {
                         <div className="flex-box-bg">
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'>О нашей компании</p>
+                                    <Link to='/'  style={{ color: 'white', textDecoration: "none" }}> <p className='btn-text'>О нашей компании</p></Link>
                                 </div>
                             </Col>
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'>О нашей компании</p>
+                                  <Link to='*' style={{ color: 'white', textDecoration: "none" }}><p className='btn-text'> Выбрать отель</p></Link>  
                                 </div>
                             </Col>
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'>О нашей компании</p>
+                                    <p className='btn-text'> Инвестировать в отель   </p>
                                 </div>
                             </Col>
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'>О нашей компании</p>
+                                    <p className='btn-text'>+  Присоединить отель</p>
                                 </div>
                             </Col>
                         </div>

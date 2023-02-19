@@ -1,0 +1,69 @@
+.buttonText{
+    background: #FFFFFF;
+    border: 1px solid #0098DB;
+    border-radius: 109px;
+    font-family: 'Gotham Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 222.57%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #0098DB;
+padding: 5px 30px;
+margin-left: 235px;
+margin-top: 40px;
+}
+
+.sectionText2{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 168.22%;
+     display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #242424;
+    padding-left: 160px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.p_text{
+padding-bottom: 30px;
+}
+
+.imgText{
+margin-bottom: 100px;
+
+}
+
+.Boxbox{
+    margin-left: px;
+    margin-top: 17px;
+}
+.boxCard{
+position: relative;
+background: #FFFFFF;
+border: 1px solid #C1E1EF;
+border-radius: 5px;
+margin-bottom: 20px;
+width: 400px;
+}
+
+.boxIcon{
+margin-top: 15px;
+margin-left: 40px;
+}
+
+.boxText{
+padding-left: 150px;
+margin-top: -65px;
+}
+
+.textP{
+    padding-left: 150px;
+    margin-top: -5px;
+}
