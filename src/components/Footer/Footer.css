@@ -1,0 +1,41 @@
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #0C5987;
+}
+
+.footerText{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.list_footer{
+list-style: none;
+margin-left: -30px;
+}
+
+.list_item_footer{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 35px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.logoFooter{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.hr_line{
+    border: 1px solid #3B7EA6;
+}
+
+.FooterP{
+    padding-top: 30px;
+    color: #FFFFFF;  
+}

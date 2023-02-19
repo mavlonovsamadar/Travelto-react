@@ -1,0 +1,54 @@
+section{
+    background: #EEF9FC;
+    padding-bottom: 50px; 
+}
+
+.borderbox{
+    margin-top: 40px;
+    background: rgba(255, 255, 255, 0.46);
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.searchText{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 191.62%; 
+    color: #1C8EC0;
+    
+}
+
+.searchTextP{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;;   
+    color: #242424;
+    width: 500px;
+    margin: auto;
+}
+
+.searchEmail{
+position: relative;
+width: 500px;
+margin: auto;
+}
+
+.searchmail{
+    background: #FFFFFF;
+    border: 1px solid #D9E7ED;
+    box-shadow: 0px 0px 10px #DCF4FF;
+    border-radius: 3px;
+}
+
+.search_button{
+margin-top: -66px;
+margin-left: 373px;
+border: none;
+background: #FC6341;
+border-radius: 3px;
+}
