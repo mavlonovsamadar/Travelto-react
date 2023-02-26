@@ -11,7 +11,7 @@ const Section = () => {
     const [value, setValue] = useState("")
 
     const getData = () => {
-        axios.get("http://localhost:3002/data").then(data => {
+        axios.get("http://localhost:4000/data").then(data => {
             setUser(data.data)
         })
     }
