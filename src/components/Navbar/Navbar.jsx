@@ -39,7 +39,7 @@ export default function Navbar() {
                                 <div className="image_div">
                                     <img src={icon3} className="personal" alt="" />
                                 </div>
-                                <p className="text-icon mt-3">Личный кабинет</p>
+                             <Link to="/login"><p className="text-icon mt-3">Log In</p></Link>
                             </div>
                         </div>
                     </Col>
@@ -51,7 +51,7 @@ export default function Navbar() {
                         <div className="flex-box-bg">
                             <Col xs={3}>
                                 <div className="box">
-                                    <Link to='/'  style={{ color: 'white', textDecoration: "none" }}> <p className='btn-text'>О нашей компании</p></Link>
+                                    <Link to='/home'  style={{ color: 'white', textDecoration: "none" }}> <p className='btn-text'>О нашей компании</p></Link>
                                 </div>
                             </Col>
                             <Col xs={3}>
@@ -61,12 +61,14 @@ export default function Navbar() {
                             </Col>
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'> Инвестировать в отель   </p>
+                                <Link to="/reg" style={{ color: 'white', textDecoration: "none",  listStyle:"none" }}> <li li>Registration</li></Link>
                                 </div>
                             </Col>
                             <Col xs={3}>
                                 <div className="box">
-                                    <p className='btn-text'>+  Присоединить отель</p>
+                                <Link to="/table" style={{ color: 'white', textDecoration: "none",  listStyle:"none" }}>
+                                <p className='btn-text'>TABLE</p>
+                                </Link>
                                 </div>
                             </Col>
                         </div>
