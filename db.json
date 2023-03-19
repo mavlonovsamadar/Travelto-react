@@ -1,68 +1,30 @@
 {
-    "data": [
-        {
-            "name": "Solo Sokos Hotel Palace Bridge",
-            "location": "Санкт-Петербург, Россия",
-            "price": "8 990 ₽  / за ночь",
-            "sale": "12 990",
-            "img": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
-            "id": 1
-        },
-        {
-            "name": "Hotel LigoHotel",
-            "location": "Moscow, Россия",
-            "price": "10 990 ₽  / за ночь",
-            "sale": "12 990",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2WKM3wTCUYegtDWXVCFzeY7XxO7NimEOuSagg8cmdANhQZ9LJ3aFDRIsR1obr94aHOc&usqp=CAU",
-            "id": 2
-        },
-        {
-            "name": " Hotel Мануфактура Bridge",
-            "location": "Сочи, Россия",
-            "price": "2 990 ₽  / за ночь",
-            "sale": "12 990",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSA6TgXcXFRifWUQsa5_4z9AYM44Rj7Q6kQzYl_Wk&s",
-            "id": 3
-        },
-        {
-            "name": "«Гостевые бюджетные комнаты»",
-            "location": "Санкт-Петербург, Россия",
-            "price": "4 990 ₽  / за ночь",
-            "sale": "5 990",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3EqGtnI-RoAdXMedoJPQWjuy921vafmbFGBU580Tvlp-u8N8xcpnmwD5f9v2q20dR1M&usqp=CAU",
-            "id": 4
-        },
-        {
-            "name": "Samarkand Plaza",
-            "location": "Samarkand, Uzbekistan",
-            "price": "7 990 ₽  / за ночь",
-            "sale": "10 990",
-            "img": "https://www.advantour.com/img/uzbekistan/hotels/samarkand/city-hotel.jpg",
-            "id": 5
-        },
-        {
-            "name": "Hilton",
-            "location": "Tashkent, Uzbekistan",
-            "price": "9 990 ₽  / за ночь",
-            "sale": "13 990",
-            "img": "https://thumbs.dreamstime.com/b/october-uzbekistan-tashkent-tashkent-city-district-building-hotel-hilton-five-stars-walking-street-evening-uzbekistan-tashkent-161932811.jpg",
-            "id": 6
-        },
-        {
-            "name": "Continental",
-            "location": "Samarkand, Uzbekistan",
-            "price": "3 990 ₽  / за ночь",
-            "sale": "7 990",
-            "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/398564796.jpg?k=435102832cb9eef48302e1566a294abcf4594f9487aaf9a1b9031ac03d72c4c5&o=",
-            "id": 7
-        },
-        {
-            "name": "Crystall Platinum",
-            "location": "Jizzax, Uzbekistan",
-            "price": "6 990 ₽  / за ночь",
-            "sale": "9 990",
-            "img": "https://resto.uz/data/resto/43/4205/crystal-garden-2826.jpg",
-            "id": 8
-        }
-    ]
+  "data": [
+    {
+      "name": "ax",
+      "location": "ax",
+      "price": "ax",
+      "sale": "xa",
+      "img": "xa",
+      "id": 3
+    },
+    {
+      "name": "qq",
+      "location": "qqq",
+      "price": "qqq",
+      "sale": "qq",
+      "img": "qqq",
+      "id": 4
+    },
+    {
+      "name": "Samandar",
+      "password": "1992",
+      "id": 5
+    },
+    {
+      "name": "2222",
+      "password": "2222",
+      "id": 6
+    }
+  ]
 }
